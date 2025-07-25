@@ -25,6 +25,8 @@ I code because I believe good software can quietly improve lives.
 
 ---
 
+## 🧠 My Technical Toolbox
+
 <h3>📱 Flutter Ecosystem</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
@@ -42,7 +44,7 @@ I code because I believe good software can quietly improve lives.
   <img src="https://img.shields.io/badge/Notifications-FF6F00?style=for-the-badge"/>
 </p>
 
-<h3>🗂️ Version Control</h3>
+<h3>📦 Version Control</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
@@ -62,6 +64,61 @@ I code because I believe good software can quietly improve lives.
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mockito-4B4B4B?style=for-the-badge"/>
+</p>
+
+<h3>📲 Android Native</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coroutine-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Retrofit-3E8EDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Navigation-4B4B4B?style=for-the-badge"/>
+</p>
+
+<h3>🗄️ Databases & Storage</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Room-6C3483?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hive-DDDD00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shared%20Preferences-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter%20Secure%20Storage-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<h3>📊 Analytics</h3>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adjust-00CED1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SmartLook-4B4B4B?style=for-the-badge"/>
+</p>
+
+<h3>🧠 General Concepts</h3>
+<p>
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVP-0066CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC-6B6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-F48C06?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/State%20Management-4B4B4B?style=for-the-badge"/>
+</p>
+
+<h3>🧰 Tools & APIs</h3>
+<p>
+  <img src="https://img.shields.io/badge/JSON-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<h3>🚀 App Distribution</h3>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 
