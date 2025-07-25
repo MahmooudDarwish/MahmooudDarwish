@@ -25,66 +25,45 @@ I code because I believe good software can quietly improve lives.
 
 ---
 
-<h3>👨‍💻 Programming Languages</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
-
-<h3>📱 App Development</h3>
+<h3>📱 Flutter Ecosystem</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
-</p>
-
-<h3>🧱 Architecture & State Management</h3>
-<p>
-  <img src="https://img.shields.io/badge/Bloc-4B4B4B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cubit-4B4B4B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-4B4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOLID-F48C06?style=for-the-badge"/>
-</p>
-
-<h3>🧪 Testing & Debugging</h3>
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mockito-4B4B4B?style=for-the-badge"/>
-</p>
-
-<h3>🗃️ Backend & Databases</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Room-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hive-DDDD00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Retrofit-3E8EDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Navigation-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Service%20Locator-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Caching-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Localization-4B4B4B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dio-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Themeing-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Paymob-005F99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/In--App%20Purchase-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Notifications-FF6F00?style=for-the-badge"/>
 </p>
 
-<h3>📦 Version Control</h3>
+<h3>🗂️ Version Control</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40"/>
 </p>
 
-<h3>📈 Analytics & Payments</h3>
+<h3>👨‍💻 Programming Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adjust-00CED1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Paymob-005F99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/In--App%20Purchase-4B4B4B?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
 </p>
 
-<h3>🚀 Deployment</h3>
+<h3>🧪 Testing</h3>
 <p>
-  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-4B4B4B?style=for-the-badge"/>
 </p>
+
 
 ---
 
