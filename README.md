@@ -69,12 +69,6 @@ I care about:
 
 ---
 
-## 📈 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmooudDarwish&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahm0o0uddarwish)
