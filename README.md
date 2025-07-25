@@ -156,8 +156,7 @@ I care about:
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahm0o0uddarwish)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmooudsaaddarwish1@gmail.com)
+<p align="left"> <a href="mailto:mahmoudsaaddarwish1@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48" height="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mahm0o0uddarwish" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/> </a> </p>
 
 ---
 
