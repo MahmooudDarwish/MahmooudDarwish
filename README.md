@@ -156,8 +156,15 @@ I care about:
 
 ## 🤝 Let’s Connect
 
-<p align="left"> <a href="mailto:mahmoudsaaddarwish1@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="48" height="48"/> 
-</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mahm0o0uddarwish" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/> </a> </p>
+<p align="left">
+  <a href="mailto:mahmoudsaaddarwish1@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahm0o0uddarwish" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
